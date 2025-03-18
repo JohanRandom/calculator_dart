@@ -31,3 +31,18 @@ To install and run the project, follow these steps:
    Clone this repository to your local machine:
    ```bash
    git clone https://github.com/tu_usuario/calculadora_dart.git
+
+2. Navega al directorio del proyecto:
+   Navigate to the project directory:
+   ```bash
+   cd calculadora_dart
+
+3. Asegúrate de que las dependencias estén actualizadas:
+   Make sure the dependencies are up to date:
+   ```bash
+   flutter pub get
+
+4. Ejecuta el proyecto:
+   Run the project:
+   ```bash
+   flutter run
